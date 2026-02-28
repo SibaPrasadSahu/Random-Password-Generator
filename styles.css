@@ -1,0 +1,70 @@
+#area{
+    background: #1f2937;
+    border-radius: 10px;
+    padding: 50px 50px;
+    font-family: Google Sans;
+    font-weight: bolder;
+}
+
+#container{
+    background: hsl(0, 0%, 100%);
+    border: 1px solid black;
+    border-radius: 8px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 500px;
+}
+
+#passwords{
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #10b981;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#password1{
+    background: #273549;
+    padding: 5px 20px;
+}
+
+#password2{
+    background: #273549;
+    padding: 5px 20px;
+}
+
+#tagline{
+    color: rgb(209, 205, 205);
+    font-weight: normal;
+}
+
+.green-text{
+    color: #10b981;
+}
+
+hr{
+    border: 1px solid #273549;
+}
+
+body{
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+button{
+    background: #10b981;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding: 10px 15px;
+    margin: 15px 0px;
+}
+
+button:active{
+    background-color: #037f56;
+}
+
+h3{
+    line-height: 0px;
+}
